@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description"
+    content="Adventures Insurance offers affordable car insurance through a variety of packages and products">
+    <title>Welcome</title>
+    <!-- Be careful regarding beginning with "/" on href & src. Item may work on Mac but takes back to main directory -->
+    <link rel="stylesheet" href="CSS/style.css" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="JS/script.js"></script>
+</head>
+<body>
+    <!-- Section 1: Header -->
+    <section class="darkbackground">
+        <header>
+                <img class="logo" src="images/logo.png" alt="Adventures Insurance Logo" title="Adventures Insurance Logo"><br>
+                <img class="logobackground" src="images/pettingzoo.png" alt="pettingzoo" title="Petting Zoo"><br>
+                <!-- No styling for nav -->
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">HOME</a></li>
+                            <li><a href="">ABOUT US</a></li>
+                            <li><a href="">PRODUCTS</a></li>
+                            <li><a href="">AGENTS</a></li>
+                            <li><a href="contact.html">CONTACT US</a></li>
+                        </ul>
+                    </nav>
+        </header>
+    </section>
+    <!-- Section 2: Body -->
+    <section class="middle">
+        <div class="middlediv">
+            <!-- Class created for article for styling purposes -->
+            <!-- Article 1 -->
+            <article class="A1">
+                <h1>Adventures Insurance</h1>
+                <img src="images/specklessmall.png" alt="llama in front of fence" title="Speckles the Llama">
+                <p>Adventures Insurance is a unique<br> insurance company specifically<br> designed for carnivals, zoos,<br> circuses, amusement parks and<br> fairs. We serve a variety of<br> coverages and options for our<br> clients that range from Ringling<br> Brothers to the South Carolina State<br> Fair to the Poughkeepsie Petting<br> Zoo in New York.</p>
+            </article>
+            <!-- Article 2 -->
+            <article>
+                <h1>Our Mission</h1>
+                <p>Adventures Insurance, located in<br> the heart of sunny Los Angeles,<br> California takes great pride in<br> providing affordable coverages for<br> entertainment groups of all sizes.<br> Our clients are insured for rides,<br> animals, food vendors, parties,<br> special events, traveling amusement<br> groups, public liability, premises,<br> worker's compensation and all<br> coverage is affordable and<br> transferrable.</p>
+                <button id="cycle"><img src="images/linesofbusiness.jpg" alt="clickable Business Lines" title="CLICK ME! Lines of Business"></button>
+            </article>
+        </div>
+    </section>
+    <!-- Section 3: Footer -->
+    <section class="darkbackground">
+        <!-- embedded JS to get current Yr for Copyright -->
+        <footer>
+            <p class="below">Copyright <script>document.write(new Date().getFullYear())</script> &copy; Adventures Insurance</p>
+            <!-- Facebook Image -->
+            <a href="www.facebook.com"><img src="images/facebookgray.png" alt="Facebook Link" title="Facebook" width="35px"></a>
+        </footer>
+    </section>
+    
+</body>
+</html>
