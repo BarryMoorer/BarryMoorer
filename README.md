@@ -17,8 +17,7 @@
 <h3>PHP & MySQL Projects</h3>
 - <b>TLA Consulting w: Database</b>
   - [TLA Consulting w: Database](https://github.com/BarryMoorer/BarryMoorer/tree/main/TLA%20Consulting%20w:%20Database)
-- <b>TLA Consulting w: Database</b>
-  - [TLA Consulting w: Database](https://github.com/BarryMoorer/BarryMoorer/tree/main/TLA%20Consulting%20w:%20Database)
+
 
 
 <h2> 🤳 Connect with me:</h2>
