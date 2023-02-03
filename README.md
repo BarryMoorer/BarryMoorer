@@ -7,11 +7,11 @@
 <h3>Javascript Projects</h3>
 
   <b>Adventure Insurance</b>
-  - [Adventure Insurance](https://github.com/BarryMoorer/BarryMoorer/tree/main/Adventure%20Insurance)
+  - [Adventure Insurance](https://github.com/BarryMoorer/BarryMoorer/tree/main/Adventure%20Insurance)</b>
    <b>Halloween Store Website</b>
-  - [Halloween Store Website](https://github.com/BarryMoorer/BarryMoorer/tree/main/Halloween%20Store%20Website)
+  - [Halloween Store Website](https://github.com/BarryMoorer/BarryMoorer/tree/main/Halloween%20Store%20Website)</b>
    <b>Multiplication & Addition</b>
-  - [Multiplication & Addition](https://github.com/BarryMoorer/BarryMoorer/tree/main/Multiplication%20%26%20Addition)
+  - [Multiplication & Addition](https://github.com/BarryMoorer/BarryMoorer/tree/main/Multiplication%20%26%20Addition)</b>
 
 
 <h3>PHP & MySQL Projects</h3>
