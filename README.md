@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Barry! <br/><a href="https://www.linkedin.com/in/barry-moorer-458707260/">Full Stack Developer</a>
+<h1>Hi, I'm Barry! <br/><a href="https://www.linkedin.com/in/-barrymoorer/">Full Stack Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -26,7 +26,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/barry-moorer-458707260/
+[linkedin]: https://www.linkedin.com/in/-barrymoorer/
 
 
 <!--
