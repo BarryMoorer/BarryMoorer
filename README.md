@@ -5,6 +5,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>Javascript Projects</h3>
+- <b>Weather App</b>
+  - [Weather-App]
+  (https://github.com/BarryMoorer/Weather-App)
   
 - <b>Adventure Insurance</b>
   - [Adventure Insurance](https://github.com/BarryMoorer/BarryMoorer/tree/main/Adventure%20Insurance)
