@@ -6,7 +6,8 @@
 
 <h3>Javascript Projects</h3>
 - <b>Weather App</b>
-  - [Weather-App]
+  - [Weather-App](https://github.com/BarryMoorer/Weather-App)
+  [Weather-App]
   (https://github.com/BarryMoorer/Weather-App)
   
 - <b>Adventure Insurance</b>
