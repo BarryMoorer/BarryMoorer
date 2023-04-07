@@ -5,9 +5,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
  
 
-<h3>PHP & MySQL Projects</h3>
+<h3>Projects w/ Database</h3>
   
-- <b>TLA Consulting w: Database</b>
+- <b>TLA Consulting</b>
   - [TLA Consulting w: Database](https://github.com/BarryMoorer/BarryMoorer/tree/main/TLA%20Consulting%20w:%20Database)
   
    <h3>Smaller Projects</h3>  
